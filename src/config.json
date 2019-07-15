@@ -1,0 +1,9 @@
+{
+  "mongoUrl": "mongodb://localhost:27017/gtfs",
+  "agencies": [
+    {
+      "agency_key": "LTFRB",
+      "path": "./gtfs/google_transit_feed.zip"
+    }
+  ]
+}
